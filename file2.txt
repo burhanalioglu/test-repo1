@@ -1,1 +1,3 @@
 This is the second file that is created.
+
+That is the second sentence of second file

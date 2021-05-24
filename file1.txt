@@ -1,3 +1,5 @@
 This is the beginning of the file.
 
 This is the second sentence added.
+
+That is written with the second file's second sentence.
